@@ -1,5 +1,7 @@
 # tileswap
 
+try it out on [github pages](https://tarnung.github.io/tileswap/).
+
 A [re-frame](https://github.com/Day8/re-frame) application.
 
 to get an endless supply of cat-pictures i use http://thecatapi.com/
